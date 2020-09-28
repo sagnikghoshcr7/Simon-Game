@@ -9,7 +9,7 @@ Click [here](https://sagnikghoshcr7.github.io/Simon-Game/.) to go to the website
 - JS
 - JQuery
 
-## get the code from the repository
+## Get the code from the repository
 ```
 git clone https://github.com/sagnikghoshcr7/Simon-Game.git
 ```
